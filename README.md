@@ -22,6 +22,8 @@ The Uncomplete GABB Source Code, full on Reji's discord Server.
 ### Contact
 
 Matrix Element (app.element.io): realgoblins 
+Discord: RealGoblins#0568
+Discord Community: https://discord.gg/8bs9NuwNYf
 
 ## License
 
